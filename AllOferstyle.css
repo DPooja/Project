@@ -1,0 +1,31 @@
+.div1
+{
+background-color:pink;
+Height:70px;
+text-align:center;
+}
+div.gallery {
+    margin: 20px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+	height:200px;
+	}
+	
+
+
+div.gallery:hover 
+{
+	
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 180px;
+    height: 200px;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
